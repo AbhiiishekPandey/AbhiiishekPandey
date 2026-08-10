@@ -1,161 +1,94 @@
-from pathlib import Path
-
-readme = r'''<div align="center">
+<div align="center">
 
 <a href="https://github.com/AbhiiishekPandey">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Abhishek%20Pandey&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=DATA%20%E2%80%A2%20TECHNOLOGY%20%E2%80%A2%20BUILDING&descSize=15&descAlignY=61&animation=fadeIn&color=gradient" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=ABHISHEK%20PANDEY&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20%C2%B7%20TECHNOLOGY%20%C2%B7%20BUILDING&descSize=15&descAlignY=61&animation=fadeIn&color=0:0B0F14,55:0B0F14,100:00D9FF" width="100%" alt="Abhishek Pandey" />
 </a>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=720&height=32&lines=B.Tech+Data+Science+Student;Python+%E2%80%A2+SQL+%E2%80%A2+Excel+%E2%80%A2+Power+BI;Learning+to+turn+problems+into+useful+things." alt="Introduction" />
+B.Tech Data Science Student
+
+Python · SQL · Excel · Power BI
+
+<br>
+
+<a href="https://www.linkedin.com/in/abhiishekpandey/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00D9FF" />
+</a>
+&nbsp;
+<a href="https://github.com/AbhiiishekPandey">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF" />
+</a>
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/abhiishekpandey/">
-<img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=00D9FF" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/AbhiiishekPandey">
-<img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=ffffff" />
-</a>
+I learn what is needed, build what works, and keep improving.
 
 </div>
 
-<br>
+About
+
+I'm Abhishek Pandey, a B.Tech Data Science student interested in the intersection of data, technology, and real-world problems.
+
+I enjoy taking an unclear problem and turning it into something understandable, useful, and eventually usable.
+
+Currently focused on
+
+Data & Analytics · Python · SQL · Excel · Power BIAI & Automation · Product Building · Problem Solving
+
+GitHub
 
 <div align="center">
 
-**I learn what is needed, build what works, and keep improving.**
-
-</div>
-
-<br>
-
----
-
-## About
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-I'm **Abhishek Pandey**, a B.Tech Data Science student interested in the intersection of **data, technology and real-world problems**.
-
-I enjoy taking an idea from:
-
-**problem → understanding → experimentation → solution**
-
-My current focus is on becoming better at the fundamentals while building things that are actually useful.
-
-<br>
-
-**Currently exploring**
-
-`Data & Analytics` · `Python` · `SQL` · `Excel` · `Power BI`  
-`AI & Automation` · `Product Building` · `Problem Solving`
-
-</td>
-
-<td width="40%" valign="top">
-
-### Current focus
-
-**01** — Data & Analytics  
-**02** — Building with Python  
-**03** — AI & Automation  
-**04** — Turning ideas into products
-
-<br>
-
-> **Learn. Build. Ship.**
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub at a glance
-
-<div align="center">
-
-<img src="https://img.shields.io/github/repos/AbhiiishekPandey?style=for-the-badge&label=PUBLIC%20REPOSITORIES&color=00D9FF&labelColor=161B22" />
+<img src="https://img.shields.io/github/repos/AbhiiishekPandey?style=for-the-badge&label=PUBLIC%20REPOS&color=00D9FF&labelColor=0D1117" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/AbhiiishekPandey?style=for-the-badge&label=STARS&color=00D9FF&labelColor=161B22" />
+<img src="https://img.shields.io/github/stars/AbhiiishekPandey?style=for-the-badge&label=STARS&color=00D9FF&labelColor=0D1117" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/AbhiiishekPandey?style=for-the-badge&label=FOLLOWERS&color=00D9FF&labelColor=161B22" />
+<img src="https://img.shields.io/github/followers/AbhiiishekPandey?style=for-the-badge&label=FOLLOWERS&color=00D9FF&labelColor=0D1117" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiiishekPandey&bg_color=0D1117&color=8B949E&line=00D9FF&point=FFFFFF&area=true&area_color=063B4A&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiiishekPandey&bg_color=0D1117&color=8B949E&line=00D9FF&point=FFFFFF&area=true&area_color=063B4A&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity" />
-
-</div>
-
----
-
-## What I build
+What I Build
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### Data
+Data
 
-Turn raw information into something people can understand and act on.
+Turning raw information into useful decisions.
 
-**Workflow**
-
-`Collect`  
-↓  
-`Clean`  
-↓  
-`Analyze`  
-↓  
-`Visualize`
+Collect↓Clean↓Analyze↓Visualize
 
 </td>
 
 <td width="33%" valign="top">
 
-### Products
+Products
 
-Start with the problem, not the technology.
+Starting with the problem instead of the technology.
 
-**Workflow**
-
-`Problem`  
-↓  
-`Prototype`  
-↓  
-`Build`  
-↓  
-`Ship`
+Problem↓Prototype↓Build↓Ship
 
 </td>
 
 <td width="33%" valign="top">
 
-### Automation
+Automation
 
-Use software to remove repetitive work and create leverage.
+Using AI, APIs and software to remove repetitive work.
 
-**Focus**
-
-`AI` · `APIs`  
-`Workflows` · `Tools`
+Explore↓Automate↓Improve
 
 </td>
 </tr>
 </table>
 
----
-
-## Tools I use
+Toolkit
 
 <div align="center">
 
@@ -163,87 +96,64 @@ Use software to remove repetitive work and create leverage.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=FFFFFF" />
 &nbsp;
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" />
 
 </div>
 
----
-
-## Beyond code
+Beyond Code
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Community & Leadership
+Community & Leadership
 
-**GDG Gulzar**  
-Technical community & event involvement.
+GDG GulzarTechnical community and event involvement.
 
-**TEDxGGI**  
-Organizing, coordinating and working behind the scenes to bring ideas to an audience.
+TEDxGGIOrganizing, coordinating, and working behind the scenes to bring ideas to an audience.
 
 </td>
 
 <td width="50%" valign="top">
 
-### How I work
+How I Work
 
-**Curiosity**  
-Ask better questions.
+CuriosityAsk better questions.
 
-**Execution**  
-Turn ideas into something tangible.
+ExecutionTurn ideas into something tangible.
 
-**Iteration**  
-Build → test → improve.
+IterationBuild → test → improve.
 
 </td>
 </tr>
 </table>
 
----
-
 <div align="center">
 
-## Let's connect
+Let's Connect
 
-**Interested in data, technology, useful products or building something from scratch?**
+Interested in data, technology, useful products, or building something from scratch?
 
 <br>
 
 <a href="https://www.linkedin.com/in/abhiishekpandey/">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=AbhiiishekPandey&style=flat-square&color=00D9FF&label=PROFILE%20VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=AbhiiishekPandey&style=flat-square&color=00D9FF&label=PROFILE%20VIEWS" alt="Profile views" />
 
 <br><br>
 
-<sub>LEARN • BUILD • SHIP</sub>
+<sub>LEARN · BUILD · SHIP</sub>
+
+<br><br>
+
+<a href="https://github.com/AbhiiishekPandey">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:00D9FF,55:0B0F14,100:0B0F14" width="100%" alt="" />
+</a>
 
 </div>
-
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" width="100%" />
-</div>
-'''
-
-path = Path("/mnt/data/README-updated.md")
-path.write_text(readme, encoding="utf-8")
-
-print(f"Created: {path}")
-print(f"Lines: {len(readme.splitlines())}")
-print("Design changes:")
-print("• Removed broken profile-summary/streak/trophy widgets")
-print("• Removed duplicated contribution graphs")
-print("• Removed terminal/code-box clutter")
-print("• Rebuilt sections around a consistent editorial layout")
-print("• Added real GDG/TEDx leadership context")
-print("• Kept only one contribution graph")
